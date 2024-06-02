@@ -1,0 +1,7 @@
+name = "oidc"
+type = "javascript"
+compatibility_date = "2024-05-24"
+
+[vars]
+PRIVATE_KEY=""
+PUBLIC_KEY=""
